@@ -12,8 +12,6 @@ Amacımız, kütüphane kullanıcılarına daha modern ve etkili bir deneyim sun
 - Python (google.cloud.dialogflow, pymongo, flask, os, uuid, datetime)
 - HTML
 - JavaScript
-
-
-
- ![chatbot](https://github.com/user-attachments/assets/2477cf91-a425-4017-9529-1a9e1625edfa)
+-
+- ![chatbot](https://github.com/user-attachments/assets/2477cf91-a425-4017-9529-1a9e1625edfa)
 
