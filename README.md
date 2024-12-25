@@ -12,6 +12,9 @@ Amacımız, kütüphane kullanıcılarına daha modern ve etkili bir deneyim sun
 - Python (google.cloud.dialogflow, pymongo, flask, os, uuid, datetime)
 - HTML
 - JavaScript
--
+
+# Text Dosyası
+- Text dosyasının içerisinde chatbot'a sorulabilecek örnek soru kalıpları verilmiştir.
+
 - ![chatbot](https://github.com/user-attachments/assets/2477cf91-a425-4017-9529-1a9e1625edfa)
 
