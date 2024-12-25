@@ -8,8 +8,8 @@ Amacımız, kütüphane kullanıcılarına daha modern ve etkili bir deneyim sun
 #Proje Nasıl Kurulur?
 - Goggle cloud'a mail hesabınızı bağlayın ve proje oluşturun.
 - Proje dosyanıza Goggle Dialogflow entegrasyonunu yapın.
-- Proje dosyasının içerisindeki Project_dialogflow.zip dosyasında bulunan dialogflow projesini, oluşturduğunuz dialofflow projesine entegre edin.
 - Proje dosyasını indirin
+- Proje dosyasının içerisindeki Project_dialogflow.zip dosyasında bulunan dialogflow projesini, oluşturduğunuz dialofflow projesine entegre edin.
 - Proje dosyasının içerisindeki database_api.py dosyasını açın, kod satırında bulunan "def initialize_db" fonksiyonunu bulun ve uri kısmında yer alan "Bağlantı URI'si" kısmını database bağlantınızı girin. Projede MangoDB kullandığımız için bu adımları MangoDB üzerinden anlatacğım. MangoDB Atlas üzerinden hesabınıza giriş yapın ve yeni bir Cluster oluşturun. Database Access menüsünden yeni bir database user oluşturun. Atlas'ta cluster'ınıza tıklayın, "Connect" butonuna tıklayın, Connect your application" seçeneğini seçin buradan size özel connection string'i kopyalayın. uri = "mongodb+srv://KULLANICI_ADINIZ:SIFRENIZ@CLUSTER_ADINIZ.xxxxx.mongodb.net/?retryWrites=true&w=majority" şeklinde olacak.
 - moduler_libarary_bot.py dosyasında config sınıfının bilgilerini de kendi projenize göre değiştirmelisiniz.
 - Bu aşamalar tamamlandıktan sonra projeyi rahatlıkla çalıştırabilirsiniz.
