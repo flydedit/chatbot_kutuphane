@@ -10,9 +10,6 @@ Amacımız, kütüphane kullanıcılarına daha modern ve etkili bir deneyim sun
 - Dialogflow & Goggle Cloud
 - MangoDB
 - Python (google.cloud.dialogflow, pymongo, flask, os, uuid, datetime)
-  -) Chatbot işlevselliği (Dialogflow)
-  -) Veritabanı yönetimi (MongoDB)
-  -) Web arayüzü (Flask)
 - HTML
 - JavaScript
 
