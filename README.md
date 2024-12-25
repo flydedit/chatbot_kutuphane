@@ -5,6 +5,10 @@ Kütüphane Dökümantasyon Sistemi Chatbot
 Proje, kütüphane kullanıcılarının kütüphane hakkında bilgi edinmesini, kitapları sorgulamasını ve yazarlar ile ilgili detaylara kolayca ulaşmasını sağlar.
 Amacımız, kütüphane kullanıcılarına daha modern ve etkili bir deneyim sunarken, aynı zamanda kütüphane personelinin iş yükünü azaltmaktır.
 
+#Proje Nasıl Kurulur?
+- Proje dosyasını indirin
+- Proje dosyasının içerisindeki database_api.py dosyasını açın, kod satırında bulunan "def initialize_db" fonksiyonunu bulun ve uri kısmında yer alan "Bağlantı URI'si" kısmını database bağlantınızı girin. Projede MangoDB kullandığımız için bu adımları MangoDB üzerinden anlatacğım. MangoDB Atlas üzerinden hesabınıza giriş yapın ve yeni bir Cluster oluşturun. Database Access menüsünden yeni bir database user oluşturun. Atlas'ta cluster'ınıza tıklayın, "Connect" butonuna tıklayın, Connect your application" seçeneğini seçin buradan size özel connection string'i kopyalayın. uri = "mongodb+srv://KULLANICI_ADINIZ:SIFRENIZ@CLUSTER_ADINIZ.xxxxx.mongodb.net/?retryWrites=true&w=majority" şeklinde olacak.
+
 # Projede Kullanılan Materyaller ve Diller
 
 - Dialogflow & Goggle Cloud
